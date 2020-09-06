@@ -9,8 +9,8 @@
 # composition-api-demo
 
 ## Image
-![Count.vue Demo](/Count.gif)
-![Dog.vue Demo](/Dog.gif)
+![Count.vue Demo](https://img-blog.csdnimg.cn/20200906174451904.gif#pic_center)
+![Dog.vue Demo](https://img-blog.csdnimg.cn/20200906174529432.gif#pic_center)
 
 ## Project setup
 ```
