@@ -1,17 +1,29 @@
+<!--
+ * @Author: Mencre
+ * @LastEditors: Mencre
+ * @email: mencre@163.com
+ * @Date: 2020-09-06 17:03:16
+ * @LastEditTime: 2020-09-06 17:27:34
+ * @Description: Modify here please
+-->
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>============Count.vue Demo============</h1>
+    <Count></Count>
+    <h1>============Dog.vue Demo>============</h1>
+    <Dog></Dog>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Count from './components/Count.vue'
+import Dog from './components/Dog.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Count,
+    Dog
   }
 }
 </script>
