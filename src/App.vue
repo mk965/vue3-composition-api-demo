@@ -3,14 +3,14 @@
  * @LastEditors: Mencre
  * @email: mencre@163.com
  * @Date: 2020-09-06 17:03:16
- * @LastEditTime: 2020-09-06 17:27:34
+ * @LastEditTime: 2020-09-06 17:41:58
  * @Description: Modify here please
 -->
 <template>
   <div id="app">
     <h1>============Count.vue Demo============</h1>
     <Count></Count>
-    <h1>============Dog.vue Demo>============</h1>
+    <h1>============Dog.vue Demo============</h1>
     <Dog></Dog>
   </div>
 </template>

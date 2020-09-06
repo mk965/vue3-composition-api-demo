@@ -3,12 +3,12 @@
  * @LastEditors: Mencre
  * @email: mencre@163.com
  * @Date: 2020-09-06 17:04:55
- * @LastEditTime: 2020-09-06 17:26:04
+ * @LastEditTime: 2020-09-06 17:35:48
  * @Description: Count.vue
 -->
 <template>
 	<div class="count">
-		<h1>Count is: {{ state.count }}, double is: {{ state.double }}</h1>
+		<h3>Count is: {{ state.count }}, double is: {{ state.double }}</h3>
 		<button @click="increment">Click Me</button>
 	</div>
 </template>
